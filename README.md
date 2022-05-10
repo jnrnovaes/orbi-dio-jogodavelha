@@ -2,7 +2,6 @@
 ### Bootcamp Orbi: DIO - Digital Innovation One
 </p>Projeto para desenvolver a construção de um jogo da velha simples com o Professor: Vitor Ruschoni</p>
 
-![Jogo da Velha!](jogovelha.png "Jogo da Velha")
 
 #### Tecnologias Utilizadas
 
